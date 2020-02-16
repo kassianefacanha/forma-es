@@ -12,7 +12,7 @@
 
 Inicialmente, haverá uma discussão inicial para introduzir o tema da formação. 
 "O que é proatividade para vocês? O que é ser uma pessoa proativa?" 
-<b> Rápida definição: 
+<br> Rápida definição: 
 “Proatividade é assumir responsabilidade de decisões tomadas, se antever perante situações e realizar um esforço para atingir um resultado e fazer algo acontecer.” 
 
 
