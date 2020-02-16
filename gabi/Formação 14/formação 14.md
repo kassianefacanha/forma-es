@@ -4,7 +4,7 @@
 
 - **Tempo**: 02 horas
 - **Participantes**:  Articuladores de célula
-- **Materiais**: Projetor, papéis A4, canetas
+- **Materiais**: Projetor, caixa de fósforos
 
 ## Procedimentos
 
