@@ -12,7 +12,7 @@
 
 Inicialmente, haverá uma discussão inicial para introduzir o tema da formação. 
 "O que é proatividade para vocês? O que é ser uma pessoa proativa?" 
-<br> Rápida definição: 
+<b> Rápida definição: 
 “Proatividade é assumir responsabilidade de decisões tomadas, se antever perante situações e realizar um esforço para atingir um resultado e fazer algo acontecer.” 
 
 
@@ -41,3 +41,4 @@ Duração para elaborar: 15-20 minutos. Duração para cada um apresentar: (temp
 
 
 ### ❺ 5. PROCESSAMENTO DE GRUPO [5 min]
+
